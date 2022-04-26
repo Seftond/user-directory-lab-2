@@ -1,0 +1,36 @@
+.headerClass{
+    color:black;
+    background-color:aqua;
+    padding: 25px;
+    margin-bottom: -2px;
+}
+
+.infoSection{
+    display: flex;
+    align-items: center;
+}
+
+.blackSection{
+    background-color: black;
+    margin-top: 0%;
+    color:aqua;
+    height: 700px;
+    align-items: center;
+    justify-content: center;
+    padding-top: 5%;
+    padding-left: 10%;
+}
+
+.cardSection{
+    background-color: gainsboro;
+    color:black;
+    width: 90%;
+    max-width: 90%;
+    max-height: 440px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+}
+.elementIndex{
+    text-align: right;
+}
